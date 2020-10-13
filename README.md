@@ -1,2 +1,2 @@
 # Comp2_2020_PLE
-Laboratórios de Computação II - Período Letivo Especial
+Laboratórios de Computação II - Período Letivo Excepcional
